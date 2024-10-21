@@ -1,0 +1,14 @@
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.AssemblyInfoInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.AssemblyInfo.cs
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.csproj.CoreCompileInputs.cache
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\bin\Debug\net8.0\ProjetoHospedagem.exe
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\bin\Debug\net8.0\ProjetoHospedagem.deps.json
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\bin\Debug\net8.0\ProjetoHospedagem.runtimeconfig.json
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\bin\Debug\net8.0\ProjetoHospedagem.dll
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\bin\Debug\net8.0\ProjetoHospedagem.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.dll
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\refint\ProjetoHospedagem.dll
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.pdb
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ProjetoHospedagem.genruntimeconfig.cache
+D:\IGOR\CURSOS\DEV FULL STACK\PROJETOS\Sistema_de_Hopedagem_de_um_Hotel\ProjetoHospedagem\obj\Debug\net8.0\ref\ProjetoHospedagem.dll
